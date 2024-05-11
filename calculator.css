@@ -4,19 +4,26 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 10px;
+    background-color: black;
 }
 
 .screen {
     margin-bottom: 10px;
     width: 300px;
-
+    background-color: #fff;
 }
 
 .screen input {
     width: 95.5%;
     height: 50px;
     font-size: 24px;
+    color: #fff;
     padding-left: 10px;
+    background-color: #369fbe;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
 }
 
 .buttons {
@@ -33,4 +40,5 @@
     font-weight: auto;
     font-style: normal;
     font-size: 24px;
+    color: #fff;
 }
